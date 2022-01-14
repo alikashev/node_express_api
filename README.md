@@ -8,7 +8,7 @@ Download postman - https://www.postman.com/downloads/
 
 ## The API can do simple CRUD operations:
 
-C - Create user/ 
+C - Create user <br> 
 R - Read user
-U - Update user/
+U - Update user
 D - Delete user
